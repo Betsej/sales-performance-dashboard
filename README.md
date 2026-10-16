@@ -5,6 +5,8 @@ An interactive Power BI dashboard that analyses sales, profit and customer activ
 ## Business Question
 Who and what drives sales, how profitable is it, and when do sales peak?
 
+*Practice dataset.*
+
 ## Dashboard Preview
 
 ### Overview
@@ -41,7 +43,7 @@ Relationships: Dim_Customers → Fact_Orders and Dim_Products → Fact_Orders (o
 1. John generates about 55% of total sales (3.6K of 6.51K), so revenue depends heavily on one customer.
 2. Monitors bring in about 4K in sales, well ahead of Accessories at about 2.4K.
 3. The profit margin is only 6.05%, so sales are strong but profit per sale is thin.
-4. January was the biggest sales month in the data (2,396), followed by November (1,491).
+4. January 2022 (2,396), then November 2021 (1,491), were the biggest sales months in the data.
 
 *Note: the data covers selected months only, so missing months are not zero sales.*
 
@@ -65,4 +67,4 @@ Relationships: Dim_Customers → Fact_Orders and Dim_Products → Fact_Orders (o
 - Designing a clear multi-page dashboard and turning charts into insights
 
 ## Author
-Betty Ejakpovi
+Orherime Betty Ejakpovi
